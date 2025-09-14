@@ -1,5 +1,3 @@
-**1. Project summary**
-
 # IMDb Top 250 Movies Scraper 🎬
 
 A Python project that automatically collects and analyzes data from IMDb's Top 250 movies.
@@ -19,7 +17,7 @@ pip install -r requirements.txt
 ```
 
 
-**2. Run the Project**
+### 2. Run the Project
 
 ``` bash
 # Run everything at once (or you can run each file one by one if needed)
@@ -34,7 +32,7 @@ python scheduler.py
 
 # Press Ctrl+C to stop when done
 
-**3. Automatic scheduling**
+### 3. Automatic scheduling
 
 ```bash
 # Run the scheduler (stays running in background)
@@ -44,7 +42,7 @@ python scheduler.py
 # Press Ctrl+C to stop when done
 
 **Project structure**
-
+```
 imdb_scraping_project/
 ├── main.py                 # Main controller
 ├── run_scraper.py        # Scraping script
@@ -57,6 +55,8 @@ imdb_scraping_project/
 ├── images/                 # Charts (auto-created)
 ├── results/                # Analysis results (auto-created)
 └── logs/                   # Log files (auto-created)
+
+```
 
 Data Collected
 
