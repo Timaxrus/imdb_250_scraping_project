@@ -15,13 +15,14 @@ A Python project that automatically collects and analyzes data from IMDb's Top 2
 
 ### 1. Install Requirements
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt```
 
 
 **2. Run the Project**
 
+``` bash
 # Run everything at once (or you can run each file one by one if needed)
-python main.py
+python main.py```
 
 
 # Run the scheduler (stays running in background)
