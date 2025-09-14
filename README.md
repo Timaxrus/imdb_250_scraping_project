@@ -74,6 +74,7 @@ imdb_scraping_project/
 #### Movie runtime distribution
 
 - Most common genres
+https://github.com/Timaxrus/imdb_250_scraping_project/blob/main/images/genre_distribution_20250914_1843.png
 
 - Top actors appearances
 
