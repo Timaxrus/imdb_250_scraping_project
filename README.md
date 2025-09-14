@@ -26,6 +26,44 @@ python scheduler.py
 ```
 
 ### 2. Run the Project
-
+```bash
 # Run everything at once (or you can run each file one by one if needed)
 python main.py
+```
+
+### 3. Automatic Scheduling
+
+``` bash
+# Run the scheduler (stays running in background)
+python scheduler.py
+
+# Press Ctrl+C to stop when done
+```
+### 📁 Project Structure
+
+imdb_scraping_project/
+├── main.py                 # Main controller
+├── run_scraper.py          # Scraping script
+├── data_cleaning.py        # Data cleaning
+├── imdb_analysis.py        # Analysis & charts
+├── scheduler.py            # Auto-scheduler
+├── requirements.txt        # Python packages
+│
+├── data/                   # CSV/JSON files (auto-created)
+├── images/                 # Charts (auto-created)
+├── results/                # Analysis results (auto-created)
+└── logs/                   # Log files (auto-created)
+
+### 🎯 Data Collected
+
+#### For each movie, we get:
+
+- Title, rating, and votes
+
+- Director and main actors
+
+- Release year and runtime
+
+- Budget and box office
+
+Awards and genres
