@@ -88,7 +88,7 @@ imdb_scraping_project/
 
 - Weekly on Sundays at 2 AM
 
---To change times, edit scheduler.py.--
+***To change times, edit scheduler.py.***
 
 ### 📦 Requirements
 - Python 3.8+
