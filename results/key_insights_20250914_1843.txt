@@ -1,0 +1,26 @@
+IMDb Top 250 - Key Insights Report
+==================================================
+
+Analysis Date: 2025-09-14 18:43
+
+Overall Statistics:
+- Total Movies: 250
+- Average Rating: 8.31/10
+- Average Runtime: 131.7 minutes
+- Average Box Office: $230.6 million
+
+Top Genres:
+- Drama: 185 movies (28.8%)
+- Adventure: 63 movies (9.8%)
+- Crime: 54 movies (8.4%)
+- Action: 47 movies (7.3%)
+- Comedy: 45 movies (7.0%)
+
+Most Prolific Director: Christopher Nolan (8 movies)
+
+Highest Rated Movie: The Shawshank Redemption (9.3/10)
+Most Awarded Movie: Oppenheimer (364.0 wins)
+
+Interesting Correlations:
+- Rating vs Budget: 0.041
+- Rating vs Box Office: 0.178

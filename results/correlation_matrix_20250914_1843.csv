@@ -1,0 +1,8 @@
+,imdb_rating,number_of_votes,run_time_minutes,budget_million,box_office_million,award_wins,award_nominations
+imdb_rating,1.0,0.59,0.243,0.041,0.178,0.167,0.06
+number_of_votes,0.59,1.0,0.118,-0.029,0.491,0.338,0.373
+run_time_minutes,0.243,0.118,1.0,0.005,0.108,0.083,0.092
+budget_million,0.041,-0.029,0.005,1.0,0.009,0.056,0.032
+box_office_million,0.178,0.491,0.108,0.009,1.0,0.381,0.437
+award_wins,0.167,0.338,0.083,0.056,0.381,1.0,0.832
+award_nominations,0.06,0.373,0.092,0.032,0.437,0.832,1.0
