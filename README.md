@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 # Run everything at once (or you can run each file one by one if needed)
 python main.py
-``
+
 
 # Run the scheduler (stays running in background)
 python scheduler.py
