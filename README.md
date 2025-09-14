@@ -77,6 +77,7 @@ imdb_scraping_project/
 ![Description of image](images/genre_distribution_20250914_1843.png)
 
 - Top actors appearances
+- ![Description of image]([images/genre_distribution_20250914_1843.png])
 
 - Rating vs box office
 
