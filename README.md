@@ -26,9 +26,9 @@ pip install -r requirements.txt
 python main.py
 ```
 
-
+```bash
 # Run the scheduler (stays running in background)
-```python
+
 python scheduler.py
 ```
 
@@ -36,8 +36,10 @@ python scheduler.py
 
 **3. Automatic scheduling**
 
+```bash
 # Run the scheduler (stays running in background)
 python scheduler.py
+```
 
 # Press Ctrl+C to stop when done
 
