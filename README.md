@@ -28,7 +28,9 @@ python main.py
 
 
 # Run the scheduler (stays running in background)
+```python
 python scheduler.py
+```
 
 # Press Ctrl+C to stop when done
 
