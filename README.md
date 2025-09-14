@@ -41,6 +41,7 @@ python scheduler.py
 ```
 ### 📁 Project Structure
 
+```
 imdb_scraping_project/
 ├── main.py                 # Main controller
 ├── run_scraper.py          # Scraping script
@@ -53,6 +54,7 @@ imdb_scraping_project/
 ├── images/                 # Charts (auto-created)
 ├── results/                # Analysis results (auto-created)
 └── logs/                   # Log files (auto-created)
+```
 
 ### 🎯 Data Collected
 
@@ -66,4 +68,36 @@ imdb_scraping_project/
 
 - Budget and box office
 
-Awards and genres
+- Awards and genres
+
+### 📊 Charts Created
+#### Movie runtime distribution
+
+- Most common genres
+
+- Top actors appearances
+
+- Rating vs box office
+
+- Highest-grossing movies
+
+- Award-winning films
+
+### ⚡ Automation
+#### The scheduler runs:
+
+- Weekly on Sundays at 2 AM
+
+--To change times, edit scheduler.py.--
+
+### 📦 Requirements
+- Python 3.8+
+
+- Packages in requirements.txt
+
+### 💡 Notes
+- First run creates needed folders automatically
+
+- Check logs/ folder if anything goes wrong
+
+- Press Ctrl+C to stop the scheduler
