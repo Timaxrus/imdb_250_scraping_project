@@ -23,3 +23,9 @@ python main.py
 python scheduler.py
 
 # Press Ctrl+C to stop when done
+```
+
+### 2. Run the Project
+
+# Run everything at once (or you can run each file one by one if needed)
+python main.py
